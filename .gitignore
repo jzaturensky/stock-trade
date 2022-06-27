@@ -1,0 +1,9 @@
+.idea/
+venv/
+.venv/
+__pycache__/
+log
+logs/
+nodejs/node_modules/
+nodejs/package-lock.json
+.vscode
